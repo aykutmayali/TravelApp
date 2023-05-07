@@ -9,7 +9,7 @@ const styles = StyleSheet.create({
         paddingVertical:2,
     }, 
     selectedItem :{
-        textDecorationLine: 'underline',
+        // textDecorationLine: 'underline',
         color: '#000000'
     },
     itemContainer: {
